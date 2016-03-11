@@ -17,5 +17,3 @@ python G:\hadoop\stage_3.py G:\hadoop\new\stage2.txt > G:\hadoop\new\stage3_end.
 python G:\hadoop\stage_4.py ads > G:\hadoop\new\stage4_end.txt
 <input search word on prompt, example - dinner> 
 python G:\hadoop\stage_5.py G:\hadoop\stage4_end.txt > G:\hadoop\new\dinner.txt
-
-
